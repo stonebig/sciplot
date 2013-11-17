@@ -7,12 +7,17 @@ Purpose
 ~~~~~~~~
 
 The goal of the package is to :
+
 - mimic ``scilab`` basic ploting functions,
+
 - ease life of starters learning both ``scilab`` and python,
+
 - be so simple that all starters can contribute to extend it, or do their own version.
 
 Non-goal of the package :
+
 - mimicing exactly all scilab ploting functions,
+
 - avoiding any easy enhancements over ``scilab`` function.
 
 Method 
